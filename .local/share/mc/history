@@ -1,0 +1,28 @@
+[cmdline]
+0=
+
+[inpmc.fm.mkdir]
+0=roles
+
+[Dir Hist New Right Panel]
+0=/home/kopf2279
+1=/home/kopf2279/roles
+
+[Dir Hist New Left Panel]
+0=/var/www/html
+1=/var/www
+2=/var
+3=/
+4=/etc
+5=/etc/ansible
+6=/home
+7=/home/kopf2279
+8=/home/kopf2279/roles/build/tests
+9=/home/kopf2279/roles/common/tasks
+10=/home/kopf2279/roles/common
+11=/home/kopf2279/roles/build
+12=/home/kopf2279/roles/build/tasks
+13=/home/kopf2279/roles/prod/tasks
+14=/home/kopf2279/roles/prod
+15=/home/kopf2279/roles/prod/handlers
+16=/home/kopf2279/roles
